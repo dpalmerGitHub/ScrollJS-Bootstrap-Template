@@ -1,0 +1,109 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 70px 0 0 0;
+    font-size: 16px;
+    /*font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-default {
+    background: #fff;
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: #000 !important;
+    font-weight: bold;
+}
+
+#showcase h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+#showcase img {
+    width: 80%;
+    margin-left: 30px;
+}
+
+#showcase .showcase-right {
+    margin-top: 90px;
+}
+
+#testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonial p {
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #000 !important;
+}
+
+#testimonial p.customer {
+    font-size: 20px;
+    color: #666;
+}
+
+#info1 {
+    margin: 90px 0 0 0;
+}
+
+#info2 {
+    margin: 20px 0 60px 0;
+}
+
+#contact {
+    padding: 40px;
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;
+}
+
+#contact form {
+    background: rgba(0, 0, 0, .95);
+    padding: 25px;
+    color: #fff;
+    border-radius: 3px;
+}
+
+#contact img {
+    width: 80%;
+}
+
+#footer {
+    padding: 30px;
+}
+
+.info-right {
+    width: 100%;
+}
+
+.info-right img {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
